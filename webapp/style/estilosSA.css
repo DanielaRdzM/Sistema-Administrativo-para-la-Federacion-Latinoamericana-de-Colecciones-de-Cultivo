@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.form-admin{
+    width: 400px;
+    background: gainsboro;
+    padding: 30px;
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    margin: auto;
+}
+  
+h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+    color: black;
+    text-align: center;
+}
+
+p{
+    font-size: 18px;
+    color: black;
+}
+  
+.controls {
+    width: 100%;
+    background: whitesmoke;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #1f53c5;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: black;
+}
+
+  
+.form-admin a {
+    color: white;
+    text-decoration: none;
+}
+  
+.form-admin .botons:hover {
+    background-color: gray;
+    
+}
+  
+.form-admin .botons {
+    width: 100%;
+    background: #2E62A1;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    cursor: pointer;
+}
+
