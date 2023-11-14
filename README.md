@@ -59,7 +59,10 @@ Opción para eliminar registros
 
 Buscar registros específicos
 ![buscar](https://github.com/DanielaRdzM/Sistema-Administrativo-para-la-Federacion-Latinoamericana-de-Colecciones-de-Cultivo/assets/148818863/c460232b-8b6a-44bd-a207-d754e8a2f825)
+
 Video con la funcionalidad del sistema
+
+[![Alt text](https://img.youtube.com/vi/W6kIhmXgmrE/0.jpg)](https://www.youtube.com/watch?v=W6kIhmXgmrE)
 
 ### Diagramas sistema administrativo
 
