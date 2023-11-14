@@ -16,6 +16,7 @@ donde PUERTO_BASE_DATOS es el puerto en el que está la base de datos, usualment
 - Los archivos de la base de datos ***base.sql*** recomiendo agregarlos dentro de la carpeta resources, en una carpeta que se llame ***db***.
 - Los servlets recomiendo agregarlos en la carpeta ***Java*** del proyecto Maven, dentro de una carpeta llamada servlets.
 - Es necesario agregar las siguientes dependencias de maven al archivo ***pom.xml*** para que funcione lo de ***JDBC*** con ***postgres***.
+  
 ![dependencias](https://github.com/DanielaRdzM/Sistema-Administrativo-para-la-Federacion-Latinoamericana-de-Colecciones-de-Cultivo/assets/148818863/ac5d5242-c9a0-48e2-a806-4c991a5043f3)
 
 ###
