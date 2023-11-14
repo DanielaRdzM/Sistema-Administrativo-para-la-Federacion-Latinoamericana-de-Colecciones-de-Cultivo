@@ -54,3 +54,11 @@ Estructura del proyecto Maven
 
 MVC (Modelo Vista Controlador) 
 ![MVC](https://github.com/DanielaRdzM/Sistema-Administrativo-para-la-Federacion-Latinoamericana-de-Colecciones-de-Cultivo/assets/148818863/826bb4ce-53b8-415c-927a-f2d9726f23a5)
+
+Diagrama de secuencia para el login
+
+![Diagrama de secuencia login](https://github.com/DanielaRdzM/Sistema-Administrativo-para-la-Federacion-Latinoamericana-de-Colecciones-de-Cultivo/assets/148818863/3833e3b1-9012-4659-b855-678ea8541d18)
+
+Diagrama de secuencia de las funciones del sistema
+
+![Diagrama de secuencia funciones](https://github.com/DanielaRdzM/Sistema-Administrativo-para-la-Federacion-Latinoamericana-de-Colecciones-de-Cultivo/assets/148818863/cac1ecec-fad7-43ae-8295-d666696e75db)
