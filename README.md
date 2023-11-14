@@ -26,6 +26,39 @@ donde PUERTO_BASE_DATOS es el puerto en el que está la base de datos, usualment
 
 ### Visualización del sistema administrativo
 
+Login
+
+![login](https://github.com/DanielaRdzM/Sistema-Administrativo-para-la-Federacion-Latinoamericana-de-Colecciones-de-Cultivo/assets/148818863/cc7cef37-2c86-4f8a-bce8-3b7fa12ff5b3)
+
+Menú principal
+
+![Menu principal](https://github.com/DanielaRdzM/Sistema-Administrativo-para-la-Federacion-Latinoamericana-de-Colecciones-de-Cultivo/assets/148818863/86f4e8e8-a342-4524-a76f-d62bb5addb6f)
+
+Menú de opciones de la sección socios
+
+![Menu de opciones](https://github.com/DanielaRdzM/Sistema-Administrativo-para-la-Federacion-Latinoamericana-de-Colecciones-de-Cultivo/assets/148818863/57ed2116-ad03-44b4-9d1e-29893d9ebb5a)
+
+Formulario para registrar 
+
+![agregar](https://github.com/DanielaRdzM/Sistema-Administrativo-para-la-Federacion-Latinoamericana-de-Colecciones-de-Cultivo/assets/148818863/79b9fc26-c6b4-4237-84e6-02aba70773ce)
+
+Socios registrados
+
+![Socios](https://github.com/DanielaRdzM/Sistema-Administrativo-para-la-Federacion-Latinoamericana-de-Colecciones-de-Cultivo/assets/148818863/b1e3d090-cbc3-4ef4-804f-f3828a7e251f)
+
+Opción para actualizar información
+
+![actualizar](https://github.com/DanielaRdzM/Sistema-Administrativo-para-la-Federacion-Latinoamericana-de-Colecciones-de-Cultivo/assets/148818863/7a7a89ea-46c9-4eb6-8481-02835125fad6)
+
+Formulario para actualizar información 
+
+![Actualizar info](https://github.com/DanielaRdzM/Sistema-Administrativo-para-la-Federacion-Latinoamericana-de-Colecciones-de-Cultivo/assets/148818863/35a47da2-3d99-44bc-accc-c5450c64db54)
+
+Opción para eliminar registros
+![eliminar](https://github.com/DanielaRdzM/Sistema-Administrativo-para-la-Federacion-Latinoamericana-de-Colecciones-de-Cultivo/assets/148818863/404c945f-7b4e-4a44-90cc-e14f1d080cf7)
+
+Buscar registros específicos
+![buscar](https://github.com/DanielaRdzM/Sistema-Administrativo-para-la-Federacion-Latinoamericana-de-Colecciones-de-Cultivo/assets/148818863/c460232b-8b6a-44bd-a207-d754e8a2f825)
 Video con la funcionalidad del sistema
 
 ### Diagramas sistema administrativo
